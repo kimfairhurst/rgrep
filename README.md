@@ -5,7 +5,7 @@ rgrep
 
 
 ###Implementation
-I chose to use recursion in my iteration with a special case for the "\" character in which the program jumps to another function that eliminates the following character. 
+I chose to use recursion in my iteration with a special case for the "\" character in which the program jumps to another function that eliminates the following character. The program itself is basically a series of if clauses searching for the special cases.
 
 ###Special Rules
 Uses the following special rules: <br>
