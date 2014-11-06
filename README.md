@@ -1,7 +1,7 @@
-rgrep
+rgrep (C)
 ========
 
-##<b>Creates a simplified version of grep, a UNIX utility that searches for patterns in text files (C). </b>
+##<b>Creates a simplified version of grep, a UNIX utility that searches for patterns in text files. </b>
 
 
 ###Implementation
